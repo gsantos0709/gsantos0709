@@ -2,15 +2,7 @@
 <h1>
    I'm Guilherme Santos
 </h1>
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVwb3YzbzNyZ213bGF1ejJhbXZmdTZ4bzFtcXZvN3pmMTQ5OW51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="500" height="250"  />
-
-
-
-
-## About Me
-
-I'm a passionate **Software Developer** currently working at **Tides Medical**. I specialize in backend development and have a deep passion for **software architecture**. While I’m currently working with **JavaScript**, my favorite programming language is **C#**.
+<h2>I'm a passionate **Software Developer** currently working at **Tides Medical**. I specialize in backend development and have a deep passion for **software architecture**. While I’m currently working with **JavaScript**, my favorite programming language is **C#**.</h2>
 
 ### What I'm Working On:
 - 🔧 Building the backend for a **USL2 team's website**.
