@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guilherme Santos 
-  <div align="center">
-    ![Hello GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
-  </div> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </h1>
 <h3 align="center">I am soccer player that fell in love with code.</h3>
 
