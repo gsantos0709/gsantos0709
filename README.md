@@ -4,10 +4,8 @@
 </h1>
 <h5>I'm a passionate Software Developer currently working at Tides Medical. I specialize in backend development and have a deep passion for software architecture. While I’m currently working with JavaScript, my favorite programming language is C#.</h5>
 
+<br/>
 
-<br/>
-<br/>
-<br/>
 ### What I'm Working On:
 - 🔧 Building the backend for a **USL2 team's website**.
 - 📈 Continuously improving my skills in **software architecture**.
