@@ -16,4 +16,7 @@
 - 💻 Although I haven't contributed to open-source yet, it's on my radar for the future.
 - 🌟 My ultimate goal is to become a top-notch **Software Architect**.
 
-Feel free to connect or check out my projects!
+<br/>
+
+
+### :hammer_and_wrench: Languages and Tools :
