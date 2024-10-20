@@ -40,6 +40,13 @@
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=gsantos0709&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-santos-83063423b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/guilhemersantos)
+[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000590924829)
+
+
 
 
 ### 🐐 GOAT:
