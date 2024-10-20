@@ -1,5 +1,5 @@
 <h1 display="flex" style="display: flex; align-items: center; justify-content: center;">
-  Hi, I'm Guilherme Santos 
+  <p width="200" height="100">Hi, I'm Guilherme Santos </p>
 
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" height="100"/>
 
