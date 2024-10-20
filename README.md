@@ -1,7 +1,8 @@
-<h1 display="flex" style="display: flex; align-items: center; justify-content: center;">
-  <p width="200" height="100">Hi, I'm Guilherme Santos </p>
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" height="100"/>
-</h1>
+## Hi, I'm Guilherme Santos
+<img align="left" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" height="100"/> 
+
+I am a soccer player that fell in love with code.
+
 
 
 
