@@ -2,7 +2,9 @@
 <h1>
    I'm Guilherme Santos
 </h1>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-santos-83063423b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/guilhemersantos)
+[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000590924829)
 <h5>I'm a passionate Software Developer currently working at Tides Medical. I specialize in backend development and have a deep passion for software architecture. While I’m currently working with JavaScript, my favorite programming language is C#.</h5>
 
 <br/>
@@ -50,8 +52,6 @@
 ### 🐐 GOAT:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF4bjRvbDdmNDFpZG9zbjA2cmdhZzQ3cXA4enAyNzlyMHVhMDJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HMpcgxAZs5YYHsbe8P/giphy.gif" width="1000" height="500"  />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-santos-83063423b)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/guilhemersantos)
-[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000590924829)
+
 
 
