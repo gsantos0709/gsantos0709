@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" height="100"  />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" height="25"  />
   Hi, I'm Guilherme Santos
 </h1>
 
