@@ -44,11 +44,9 @@
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=gsantos0709&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
-## Connect with Me
 
 
-
-
+<br/>
 
 ### 🐐 GOAT:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF4bjRvbDdmNDFpZG9zbjA2cmdhZzQ3cXA4enAyNzlyMHVhMDJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HMpcgxAZs5YYHsbe8P/giphy.gif" width="1000" height="500"  />
