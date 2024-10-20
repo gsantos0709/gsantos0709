@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100" height="50"  />
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="500" height="250"  />
 <h1>
    I'm Guilherme Santos
 </h1>
