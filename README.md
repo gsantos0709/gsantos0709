@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm Guilherme Santos <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> </h1>
+<h1 align="center">Hi, I'm Guilherme Santos 
+  <div align="center">
+    <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0N3NrM3A2M2ZuZTFvenA0bzFlamxocHk0Nzh0YmFvdnZiNXFudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)" width="600" height="300"/>
+  </div> 
+</h1>
 <h3 align="center">I am soccer player that fell in love with code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsantos0709" alt="gsantos0709" /></a> </p>
 
 - 🔭 I’m currently working on **backend for a website from a USL2 team+**
 
