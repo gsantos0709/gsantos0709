@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guilherme Santos 
   <div align="center">
-    <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0N3NrM3A2M2ZuZTFvenA0bzFlamxocHk0Nzh0YmFvdnZiNXFudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)" width="600" height="300"/>
+<div style="width:100;height:0;padding-bottom:75;position:relative;"><iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM">via GIPHY</a></p>
   </div> 
 </h1>
 <h3 align="center">I am soccer player that fell in love with code.</h3>
