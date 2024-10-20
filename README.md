@@ -1,7 +1,7 @@
-## Hi, I'm Guilherme Santos
-<img align="left" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" height="100"/> 
-
-I am a soccer player that fell in love with code.
+<h1>
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100" height="100" align="left"/>
+  Hi, I'm Guilherme Santos
+</h1>
 
 
 
