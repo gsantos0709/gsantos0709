@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Guilherme Santos 
+<h1 display="flex" align="center">Hi, I'm Guilherme Santos 
 <div align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="600" height="300"/>
 </div>
